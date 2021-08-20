@@ -1059,4 +1059,5 @@ h4 {
 .footer-partenaires {
     display: flex;
     justify-content: center;
+    padding-top: 25px;
 }
