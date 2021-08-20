@@ -680,6 +680,21 @@ p {
     font-size: 11px;
 }
 
+.image-title {
+    font-size: 22px;
+}
+
+.image-citation1 {
+    font-size: 22px;
+    font-style: italic;
+}
+
+.image-citation2 {
+    font-size: 15px;
+    font-style: italic;
+}
+
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
