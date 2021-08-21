@@ -18,7 +18,7 @@ a:hover {
     cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
+.page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
     bottom: 0;
@@ -560,18 +560,18 @@ a[data-lightbox]:hover img {
     animation-fill-mode: none;
 }
 
-#lightbox-modal {
+.lightbox-modal {
     display: flex;
     align-items: center;
 }
 
-#lightbox-modal .modal-dialog {
+.lightbox-modal .modal-dialog {
     width: 90%;
     max-width: 900px;
     margin: 0 auto 0;
 }
 
-#lightbox-modal .modal-dialog img {
+.lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
 }
@@ -883,7 +883,7 @@ h4 {
         background-attachment: scroll;
     }
     .page-container,
-    #hero-bloc {
+    .hero-bloc {
         overflow-x: hidden;
         position: relative;
     }
@@ -916,7 +916,7 @@ h4 {
     h5,
     h6,
     p,
-    #disqus_thread {
+    .disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
@@ -957,10 +957,10 @@ h4 {
         border-right-color: transparent;
         border-left-color: transparent;
     }
-    #hero-bloc .navbar .nav {
+    .hero-bloc .navbar .nav {
         background: rgba(0, 0, 0, .8);
     }
-    #hero-bloc .navbar .nav a {
+    .hero-bloc .navbar .nav a {
         color: rgba(255, 255, 255, .6);
     }
     .hero {
