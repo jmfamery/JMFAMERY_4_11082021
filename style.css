@@ -795,6 +795,12 @@ h4 {
     font-weight: bold;
 }
 
+h1.text-center {
+    color: white !important;
+    font-size: 35px;
+   }
+   
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
