@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color: black!important;
 }
 
 .icon-lg {
@@ -790,7 +791,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
     font-weight: bold;
 }
 
